@@ -9,4 +9,7 @@ git remote add origin [direccionRepositorio]
 Ahora debemos subir los commits del repo local con push. Pero primero vinculamos el branch local con el de gitHub, para que sepa donde subir los commits
 git push --set-upstream origin master
 Ahora si usamos git oush para sincronizar los commit locales en el repo remoto.
-
+--
+Esta parte del archivo esta modificada desde el repositorio remoto (gitHub).
+Desde la terminal haremos git pull para obtener los cambios realizados desde aca.
+--
